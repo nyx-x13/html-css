@@ -1,0 +1,57 @@
+body{
+    background-color: #000000;
+}
+
+.site-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.socials{
+    font-size: 25px;
+   
+    
+}
+
+.terminal{
+    padding-bottom: 7px;
+    position: relative;
+    transition: 0.5s;
+    color:#00c2ba;
+    text-shadow:0.5px 0.5px 8px #00c2ba;
+    float:left;
+    font-size: 30px;
+    display: flex;
+  align-items: center;
+  gap: 2px;
+    
+}
+
+.terminal ::after{
+    content:" ";
+    width: 10px;
+    height: 20px;
+    background: #00c2ba;
+    display: inline-block;
+    box-shadow: 0.5px 0.5px 8px #00c2ba;
+    animation: cursor-blink 1.5s steps(2) infinite;
+}
+@keyframes cursor-blink {
+    0% {
+      opacity: 0;
+      
+    }
+  }
+
+.listo a{
+    position: relative;
+    font-size: larger;
+    text-align: center;
+    color: #666;
+    margin-right: 10px;
+    
+}
+.listo a:hover{
+    color: #00c2ba;
+    transition: 0.5s;
+}
