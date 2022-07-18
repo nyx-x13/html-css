@@ -70,7 +70,6 @@ body{
 .para1{
     font-size: 20px;
     font-family: 'JetBrains Mono', monospace;
-    transition: 2s;
 }
 .ascii{
     margin-top: 60px;
