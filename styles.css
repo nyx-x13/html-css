@@ -1,6 +1,8 @@
 body{
     background-color: #000000;
     margin: 0;
+    font-family: sans-serif;
+
 }
 
 .site-header{
@@ -56,11 +58,26 @@ body{
     color: #00c2ba;
     transition: 0.5s;
 }
-.grid-container{
+.yo{
     display:flex;
     align-items:center;
+    justify-content: ;
     
 }
 .text{
-   margin-left:250px;
+   margin-left:75px;
+}
+.para1{
+    font-size: 20px;
+    font-family: 'JetBrains Mono', monospace;
+    transition: 2s;
+}
+.ascii{
+    margin-top: 60px;
+    text-shadow:0.5px 0.5px 8px #00c2ba;
+
+    
+}
+.name{
+    color: #00c2ba;
 }
