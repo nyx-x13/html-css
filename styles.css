@@ -1,5 +1,6 @@
 body{
     background-color: #000000;
+    margin: 0;
 }
 
 .site-header{
@@ -34,7 +35,7 @@ body{
     background: #00c2ba;
     display: inline-block;
     box-shadow: 0.5px 0.5px 8px #00c2ba;
-    animation: cursor-blink 1.5s steps(2) infinite;
+    animation: cursor-blink 1s steps(2) infinite;
 }
 @keyframes cursor-blink {
     0% {
@@ -54,4 +55,12 @@ body{
 .listo a:hover{
     color: #00c2ba;
     transition: 0.5s;
+}
+.grid-container{
+    display:flex;
+    align-items:center;
+    
+}
+.text{
+   margin-left:250px;
 }
