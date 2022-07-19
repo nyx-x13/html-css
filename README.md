@@ -1,2 +1,2 @@
 # html-css
-basic portfolio built from learning html and css
+basic portfolio built from html and css
