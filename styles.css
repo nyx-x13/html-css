@@ -8,10 +8,11 @@ body{
 .site-header{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    
 }
 .socials{
     font-size: 25px;
+    float: right;
    
     
 }
@@ -60,6 +61,7 @@ body{
 }
 .yo{
     display:flex;
+    align-items: center;
 }
 .text{
    margin-left:75px;
