@@ -7,6 +7,7 @@ body{
 
 .site-header{
     display: flex;
+    justify-content: space-between;
     
 }
 .socials{
@@ -58,12 +59,12 @@ body{
 .yo{
     display:flex;
     align-items: center;
+    
 }
 .text{
    margin-left:75px;
 }
 .para1{
-    font-size: 20px;
     font-family: 'JetBrains Mono', monospace;
 }
 .ascii{
