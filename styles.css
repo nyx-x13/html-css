@@ -7,25 +7,21 @@ body{
 
 .site-header{
     display: flex;
-    justify-content: space-between;
     
 }
 .socials{
     font-size: 25px;
     float: right;
-   
     
 }
 
 .terminal{
     padding-bottom: 7px;
     position: relative;
-    transition: 0.5s;
     color:#00c2ba;
     text-shadow:0.5px 0.5px 8px #00c2ba;
     float:left;
     font-size: 30px;
-    display: flex;
   align-items: center;
   gap: 2px;
     
