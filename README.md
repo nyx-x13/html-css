@@ -1,6 +1,5 @@
 
 
-![Screenshot from 2022-10-01 16-04-17](https://user-images.githubusercontent.com/60399486/193405405-14e730fb-f32f-4ddd-960a-5ac8f91e7b93.png)
 
 
 
