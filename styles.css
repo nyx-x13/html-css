@@ -56,7 +56,7 @@ body{
     color: #00c2ba;
     transition: 0.5s;
 }
-.yo{
+.container{
     display:flex;
     align-items: center;
     
